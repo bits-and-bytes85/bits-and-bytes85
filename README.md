@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bits-and-bytes85
 - 👀 I’m interested in data science and machine learning!
-- 🌱 I’m currently learning Java in my AP CS course and have previously learned JavaScript, Python, and C.
+- 🌱 I’m currently learning Java @ the University of Washington and have previously learned JavaScript, Python, and C.
 - 📫 You can reach me at: shriya.gautam5@gmail.com 
 
 <!---

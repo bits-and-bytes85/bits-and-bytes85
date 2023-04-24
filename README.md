@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bits-and-bytes85
 - 👀 I’m interested in data science, machine learning, and environmental science!
-- 🌱 I’m currently a high school senior at Interlake High School, and have previously learned JavaScript, Java, Python, and C.
+- 🌱 I’m currently a high school senior at Interlake High School and rising freshman at the University of Massachusetts Amherst, and have previously learned JavaScript, Java, Python, and C!
 - 📫 You can reach me at: shriya.gautam5@gmail.com or at 425-761-4712!
 
 <!---

@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @bits-and-bytes85<br>👀 I’m interested in data science, machine learning, and environmental science!<br>🌱 I’m currently a first year student studying Computer Science and Math at the University of Massachusetts Amherst, and have previously learned JavaScript, Java, Python, and C!<br>📫 You can reach me at: shriya.gautam5@gmail.com or at 425-761-4712!
+👋 Hi, I’m @bits-and-bytes85<br>👀 I’m interested in data science, machine learning, and environmental science!<br>🌱 I’m currently a second year student studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>📫 You can reach me at: shriya.gautam5@gmail.com or at 425-761-4712!
 
 
 ## 🌐 Socials:

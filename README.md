@@ -33,7 +33,7 @@
 ### Machine Learning 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a> 
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-</td><td valign="top" width="25%">
+
 <!-- <a href="[https://tensorflow.org/](https://www.tensorflow.org/)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow.png" alt="Tensorflow" height="50" /></a>   -->
 </td><td valign="top" width="25%">
   

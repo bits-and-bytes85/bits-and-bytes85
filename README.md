@@ -2,7 +2,7 @@
 👋 Hi, I’m @bits-and-bytes85! Welcome! <br>🌱 I’m currently a second year student studying Computer Science and Mathematics at the University of Massachusetts Amherst. <br> 👀 My interests include computer vision, statistics, machine learning, and environmental science!<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyagautam5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyagautam5/)<br>
 📫 You can also reach me at: shriya.gautam5@gmail.com or at 425-761-4712!
 
 ## 💻 Tech Stack:

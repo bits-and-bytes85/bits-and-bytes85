@@ -1,5 +1,5 @@
-# About Me:
-👋 Hi, I’m @bits-and-bytes85! Welcome! <br>🌱 I’m currently a second year student studying Computer Science and Mathematics at the University of Massachusetts Amherst. <br> 👀 My interests include computer vision, statistics, machine learning, and environmental science!<br>
+# Welcome!:
+👋 Hi, I’m @bits-and-bytes85! <br>🌱 I’m currently a second year student studying Computer Science and Mathematics at the University of Massachusetts Amherst. <br> 👀 My interests include computer vision, statistics, machine learning, and environmental science!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyagautam5/)<br>
@@ -20,8 +20,6 @@
 -->
 ---
 ![](https://readme-jokes.vercel.app/api)
-
-
 [![](https://visitcount.itsvg.in/api?id=bits-and-bytes85&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

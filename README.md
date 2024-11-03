@@ -4,7 +4,7 @@
 📫 You can reach me at: shriya.gautam5@gmail.com or at 425-761-4712!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyagautam5/)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyagautam5/)
 <a href="https://discord.gg/bits_and_bytes85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bits_and_bytes85" height="30" width="40" /></a>
 
 <!--

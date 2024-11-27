@@ -68,7 +68,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bits-and-bytes85&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 ---
+<!--
 ![](https://readme-jokes.vercel.app/api) <br/>
+-->
 [![](https://visitcount.itsvg.in/api?id=bits-and-bytes85&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

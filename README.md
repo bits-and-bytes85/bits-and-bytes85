@@ -83,6 +83,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 💡 
-![Click for laughs](https://cs-puns.netlify.app)
+[![Click for laughs](https://cs-puns.netlify.app/preview.png)](https://cs-puns.netlify.app)
 
 

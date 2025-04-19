@@ -83,5 +83,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 💡 
-[![Joke Generator](https://img.shields.io/badge/Joke-Click_Me-39ff14?style=flat&logo=github)](https://yourusername.github.io/cs-joke-generator/)
+![Click for laughs](https://cs-puns.netlify.app/preview.png)](https://csjokes.netlify.app)
+
 

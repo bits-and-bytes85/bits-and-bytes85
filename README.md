@@ -81,3 +81,7 @@ Feel free to check out my personal website at bits-and-bytes85.github.io!
 bits-and-bytes85/bits-and-bytes85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### 💡 
+[![Joke Generator](https://img.shields.io/badge/Joke-Click_Me-39ff14?style=flat&logo=github)](https://yourusername.github.io/cs-joke-generator/)
+

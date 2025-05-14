@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @bits-and-bytes85! 
-🌱 I’m a second year student studying Computer Science and Mathematics at the University of Massachusetts Amherst. <br> 👀 My interests include computer vision, statistics, machine learning, and environmental science!<br>
+🌱 I’m a second year student studying Computer Science, Mathematics, and Philosophy at the University of Massachusetts Amherst. <br> 👀 My interests include computer vision, statistics, machine learning, and environmental science!<br>
 📫 You can reach me at: shriya.gautam5@gmail.com or at 425-761-4712!<br>
 👩🏽‍🔬 Feel free to check out my personal website at bits-and-bytes85.github.io!
 
@@ -82,7 +82,6 @@ bits-and-bytes85/bits-and-bytes85 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-### 💡 
-[![Click for laughs](https://cs-puns.netlify.app/preview.png)](https://cs-puns.netlify.app)
+### 💡 [![Click for laughs](https://cs-puns.netlify.app/preview.png)](https://cs-puns.netlify.app)
 
 

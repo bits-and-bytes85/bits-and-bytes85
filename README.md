@@ -66,14 +66,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bits-and-bytes85&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
-<!--
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bits-and-bytes85&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
+
 ---
-<!--
+
 ![](https://readme-jokes.vercel.app/api) <br/>
--->
+
 [![](https://visitcount.itsvg.in/api?id=bits-and-bytes85&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -82,6 +82,6 @@ bits-and-bytes85/bits-and-bytes85 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-### 💡 [Click for laughs](https://cs-puns.netlify.app)
+### 💡 [](https://cs-puns.netlify.app)
 
 

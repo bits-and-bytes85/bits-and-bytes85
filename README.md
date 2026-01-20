@@ -60,15 +60,19 @@
 -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bits-and-bytes85&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bits-and-bytes85&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bits-and-bytes85" alt="bits-and-bytes85" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bits-and-bytes85&show_icons=true&locale=en&layout=compact" alt="bits-and-bytes85" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bits-and-bytes85&show_icons=true&locale=en" alt="bits-and-bytes85" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bits-and-bytes85&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bits-and-bytes85&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 

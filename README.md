@@ -60,25 +60,18 @@
 -->
 
 ## 📊 GitHub Stats:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bits-and-bytes85&label=Profile%20views&color=00e043&style=flat" alt="bits-and-bytes85" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bits-and-bytes85" alt="bits-and-bytes85" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bits-and-bytes85&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="bits-and-bytes85" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bits-and-bytes85&show_icons=true&theme=cobalt&text_color=ffffff&locale=en" alt="bits-and-bytes85" /></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bits-and-bytes85&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
-
 
 ---
 
 ![](https://readme-jokes.vercel.app/api) <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bits-and-bytes85&label=Profile%20views&color=00e043&style=flat" alt="bits-and-bytes85" /> </p>
+
 
 [![](https://visitcount.itsvg.in/api?id=bits-and-bytes85&icon=1&color=3)](https://visitcount.itsvg.in)
 

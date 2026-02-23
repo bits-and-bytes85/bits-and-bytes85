@@ -68,10 +68,10 @@
 
 
 ---
-
+<!--
 ![](https://readme-jokes.vercel.app/api) <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bits-and-bytes85&label=Profile%20views&color=00e043&style=flat" alt="bits-and-bytes85" /> </p>
-
+-->
 
 [![](https://visitcount.itsvg.in/api?id=bits-and-bytes85&icon=1&color=3)](https://visitcount.itsvg.in)
 

@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @bits-and-bytes85! 
 🌱 I’m a third year student studying Computer Science and Mathematics at the University of Massachusetts Amherst. <br> 👀 My interests include machine learning, computer vision, statistics, and environmental science!<br>
 📫 You can reach me at: shriya.gautam5@gmail.com<br>
-👩🏽‍🔬 Check out my personal website at bits-and-bytes85.github.io!
+👩🏽‍🔬 Check out my personal website at https://bits-and-bytes85.github.io!
 
 ## 🌐 Socials:
 <a href="https://discord.gg/bits_and_bytes85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bits_and_bytes85" height="30" width="40" /></a>

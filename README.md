@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m @bits-and-bytes85! 
-🌱 I’m a third year student studying Computer Science and Mathematics at the University of Massachusetts Amherst. <br> 👀 My interests include machine learning, computer vision, statistics, and environmental science!<br>
+🌱 I’m a MS CS at the University of Massachusetts Amherst. <br> 👀 My interests include machine learning, computer vision, statistics, and environmental science!<br>
 📫 You can reach me at: shriya.gautam5@gmail.com<br>
 👩🏽‍🔬 Check out my personal website at https://bits-and-bytes85.github.io!
 
